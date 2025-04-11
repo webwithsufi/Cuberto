@@ -4,7 +4,8 @@ This repository contains a clone of the Cuberto website, built using HTML, CSS, 
 
 ## Live Demo
 
-live demo : [https://webwithsufi.github.io/Cuberto/](https://webwithsufi.github.io/Cuberto/)
+live demo  [here](https://webwithsufi.github.io/Cuberto/).
+
 
 ## Table of Contents
 
